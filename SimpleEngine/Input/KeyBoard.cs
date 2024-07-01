@@ -11,7 +11,7 @@
             _inputKeyBoardHandlers += inputKeyBoardHandler;
         }
 
-        internal static void HandelKeyPress()
+        internal static void HandleKeyPress()
         {
             if (Console.KeyAvailable)
             {

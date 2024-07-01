@@ -6,7 +6,7 @@
         {
             while (true)
             {
-                Input.KeyBoard.HandelKeyPress();
+                Input.KeyBoard.HandleKeyPress();
 
                 Input.MouseButtonHandler.HandleButtonPress();
             }
