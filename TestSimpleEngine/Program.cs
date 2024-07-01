@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         {
-            SimpleEngine.Class1.Test();
         }
     }
 }
