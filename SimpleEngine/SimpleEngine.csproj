@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Graphic\" />
-    <Folder Include="Input\" />
     <Folder Include="Utils\" />
   </ItemGroup>
 
